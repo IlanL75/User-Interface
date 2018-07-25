@@ -64,3 +64,120 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.nav-block  nav a {
+  font-size: 15px;
+  color: gray;
+  text-decoration: none;
+  width: 200px;
+  height: 50px;
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+  margin: 0 30px;
+}
+
+header {
+	position: relative;
+}
+
+header img {
+	position: absolute;
+	top: 5px;
+	right: 15px;
+}
+
+.block1 {
+	position: relative;
+	height: 450px;
+}
+
+.block1 h1 {
+	display: inline-block;
+	height: 250px;
+	width: 350px;
+	font-size: 70px;
+	text-align: center;
+	padding: 30px;
+  	margin: 30px 30px;
+  	position: absolute;
+  	right: 1050px;
+}
+
+.block1 img {
+	display: inline-block;
+	position: absolute;
+	right: 300px;
+	top: 20px;
+}
+
+.block1 button {
+	display: inline-block;
+	width: 120px;
+  	height: 25px;
+  	border: 1px solid black;
+  	background: white;
+  	position: absolute;
+  	left: 575px;
+  	bottom: 100px;
+}
+
+.block2 {
+	height: 200px;
+	text-align: center;
+	position: relative;
+	border-top: 1px solid black;
+}
+
+.block2 div {
+	display: inline-block;
+	height: 150px;
+	width: 30%;
+	padding: 10px;
+  	margin: 30px 30px;
+}
+
+.block3 {
+	height: 150px;
+	margin: 0 150px;
+	width: 80%;
+}
+
+.block4 {
+	height: 200px;
+	text-align: center;
+	position: relative;
+}
+
+.block4 div {
+	display: inline-block;
+	height: 150px;
+	width: 20%;
+	padding: 10px;
+  	margin: 30px 30px;
+}
+
+.block5 {
+	height: 120px;
+	width: 80%;
+	padding: 10px;
+  	margin: 30px 30px;
+  	margin: 0 150px;
+  	border-top: 1px solid black;
+}
+
+footer {
+	height: 120px;
+	width: 80%;
+	padding: 10px;
+  	margin: 30px 30px;
+  	margin: 0 150px;
+}
+
+
+
+
+
+
+
+
+
